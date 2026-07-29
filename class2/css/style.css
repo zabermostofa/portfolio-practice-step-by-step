@@ -1,0 +1,12 @@
+.navbar-brand:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+.nav-link:hover{
+    color: purple !important;
+    font-weight: 800;
+    font-family: cursive;
+    transition: 0.3s;
+
+}
