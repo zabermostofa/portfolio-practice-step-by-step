@@ -1,9 +1,10 @@
 .nav-link:hover{
-    color: darkblue !important;
+    font-family: cursive;
+    font-weight: 700;
+    color: red !important;
     transition: 0.3s;
 }
-
-.navbar-brand:hover{
-    transform: scale(1.1);
+.navbar-brand img:hover{
     transition: 0.3s;
+    transform: scale(1.1);
 }
