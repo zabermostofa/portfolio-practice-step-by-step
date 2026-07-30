@@ -1,4 +1,4 @@
-.nav-link text-capitalize   :hover{
+.nav-link:hover{
     color: darkblue !important;
     transition: 0.3s;
 }
